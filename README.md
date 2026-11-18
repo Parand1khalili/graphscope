@@ -4,7 +4,7 @@ An interactive atlas for exploring how language models label text-attributed gra
 
 ## Live Demo
 
-**Deployment pending:** [parand1khalili.github.io/graphscope](https://parand1khalili.github.io/graphscope/).
+**Live deployment verified (2026-11-18):** [parand1khalili.github.io/graphscope](https://parand1khalili.github.io/graphscope/).
 
 ## Preview
 
@@ -73,3 +73,8 @@ Foundational reference: Chen et al., [*Label-Free Node Classification on Graphs 
 [GitHub](https://github.com/Parand1khalili) · [Portfolio](https://parand1khalili.github.io/)
 
 Research collaboration on language models, graph learning and evidence-aware annotation is welcome. Third-party software notices are included in [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt); they do not grant rights to the research data or project-specific material.
+
+
+## Current research summary
+
+Completed November18 aggregate results and method distinctions are published at https://parand1khalili.github.io/research/sara.html . This distribution preserves the historical Cora node explorer;it does not contain node-level PubMed/CiteSeer evidence. Original React/Vite source lineage is LLM-GNN/web/graphscope;no speculative rebuild or source rewrite was performed. The deployment caption links the current study without reattributing historical metrics. Third-party notices remain unchanged.
