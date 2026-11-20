@@ -1,0 +1,4 @@
+/data/*.json -text
+/assets/*.js -text
+/assets/*.css -text
+/index.html -text
